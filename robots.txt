@@ -1,0 +1,3 @@
+Sitemap: https://andrewganzy.github.io/car-reg-plates-manchester/sitemap.xml
+User-agent:*
+Disallow:
